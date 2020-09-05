@@ -1,4 +1,4 @@
-# Quantra_Assignement(Section 1/2/3)
+# Quantra_Assignment(Section 1/2/3)
 This is an project created for the assignment given by Quantra. 
   
 ## Installation 
