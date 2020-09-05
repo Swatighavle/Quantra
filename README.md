@@ -5,6 +5,7 @@ This is an project created for the assignment given by Quantra.
 (for section 1)
 ```bash
 Open this repository (accessible to everyone) and downlaod the zip file. which includes all the files to run this project.
+You will need Eclipse, Java, Maven, TestNG and Selenium to run this project.
 ```
 
 ## Usage
